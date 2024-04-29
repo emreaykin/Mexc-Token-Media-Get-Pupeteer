@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "image-downloader": "^4.3.0",
+    "puppeteer": "^22.7.1"
+  }
+}
